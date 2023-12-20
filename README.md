@@ -4,6 +4,8 @@ This repository holds the Mathematica and SageMath notebooks for the book
 
     Abstract Algebra: An Interactive Approach, 3rd edition
 
+To download a zip file, click on the file, and then select "Raw View".    
+
 The Mathematica .nb notebooks are in the zip file MathFiles3.zip.  Mathematica 
 must be purchased separately.  Unzipping this file will give the files for
 the textbook.  The instructions are in the textbook.
